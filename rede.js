@@ -132,7 +132,7 @@ function loadItem(_itemName, _nomeLogo, _itemArea, _itemNumberOfAdress, _itemAdr
                         htmltext +='<h3>Unidade2 - '+_completeItemAdressText2+'</h3>'
                     }
                             
-                        htmltext +='<h3 class="numbers">98 33110101 / 98 99210-2831</h3>'
+                        htmltext +='<h3 class="numbers">'+_itemcontactText+'</h3>'
                     htmltext +='</div>'
                 htmltext +='</div>'
             htmltext +='</div>'
